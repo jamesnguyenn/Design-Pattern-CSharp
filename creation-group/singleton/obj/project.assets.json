@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Workspace\\design-pattern\\creation-group\\singleton\\app\\app.csproj",
-      "projectName": "app",
-      "projectPath": "C:\\Users\\PC\\Desktop\\Workspace\\design-pattern\\creation-group\\singleton\\app\\app.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Workspace\\design-pattern\\creation-group\\singleton\\singleton.csproj",
+      "projectName": "singleton",
+      "projectPath": "C:\\Users\\PC\\Desktop\\Workspace\\design-pattern\\creation-group\\singleton\\singleton.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\Workspace\\design-pattern\\creation-group\\singleton\\app\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\Workspace\\design-pattern\\creation-group\\singleton\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
