@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Workspace\design-pattern\creation-group\singleton\bin\Debug\net8.0\singleton.exe
+C:\Users\PC\Desktop\Workspace\design-pattern\creation-group\singleton\bin\Debug\net8.0\singleton.deps.json
+C:\Users\PC\Desktop\Workspace\design-pattern\creation-group\singleton\bin\Debug\net8.0\singleton.runtimeconfig.json
+C:\Users\PC\Desktop\Workspace\design-pattern\creation-group\singleton\bin\Debug\net8.0\singleton.dll
+C:\Users\PC\Desktop\Workspace\design-pattern\creation-group\singleton\bin\Debug\net8.0\singleton.pdb
+C:\Users\PC\Desktop\Workspace\design-pattern\creation-group\singleton\obj\Debug\net8.0\singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Workspace\design-pattern\creation-group\singleton\obj\Debug\net8.0\singleton.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Workspace\design-pattern\creation-group\singleton\obj\Debug\net8.0\singleton.AssemblyInfo.cs
+C:\Users\PC\Desktop\Workspace\design-pattern\creation-group\singleton\obj\Debug\net8.0\singleton.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Workspace\design-pattern\creation-group\singleton\obj\Debug\net8.0\singleton.sourcelink.json
+C:\Users\PC\Desktop\Workspace\design-pattern\creation-group\singleton\obj\Debug\net8.0\singleton.dll
+C:\Users\PC\Desktop\Workspace\design-pattern\creation-group\singleton\obj\Debug\net8.0\refint\singleton.dll
+C:\Users\PC\Desktop\Workspace\design-pattern\creation-group\singleton\obj\Debug\net8.0\singleton.pdb
+C:\Users\PC\Desktop\Workspace\design-pattern\creation-group\singleton\obj\Debug\net8.0\singleton.genruntimeconfig.cache
+C:\Users\PC\Desktop\Workspace\design-pattern\creation-group\singleton\obj\Debug\net8.0\ref\singleton.dll
